@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=150&section=header" />
 
-
+If u want to know more about me, click the badge &downarrow;
 [<img src="https://img.shields.io/badge/Tistory-FFA500?style=for-the-badge"/>](https://goonerd.tistory.com/)
 
 ***
-
+### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goonerd17)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
