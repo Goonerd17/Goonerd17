@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=150&section=header" />
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Goonerd  )](https://goonerd.tistory.com/)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Goonerd17)](https://goonerd.tistory.com/)
 
 ***
 
