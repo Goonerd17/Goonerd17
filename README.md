@@ -1,10 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=100&section=header" />
 
+### Contact
 
 
 &downarrow; If u want to know more about me, click the badge 
 
 [<img src="https://img.shields.io/badge/Tistory-FFA500?style=for-the-badge"/>](https://goonerd.tistory.com/)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=goonerd&theme=default)](https://goonerd.tistory.com/)
+
 
 ***
 ### Stats
@@ -27,6 +30,4 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=150&section=footer" />
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=100&section=footer" />
