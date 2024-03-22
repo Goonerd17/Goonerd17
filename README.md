@@ -36,7 +36,7 @@ My goal is to become a skilled developer and ultimately create opportunities for
 ***
 
 <br/> </br>
-&downarrow; ## If u want to know more about me, click the badge 
+**&downarrow; If u want to know more about me, click the badge** 
 
 [<img src="https://img.shields.io/badge/Tistory-FFA500?style=for-the-badge"/>](https://goonerd.tistory.com/)
 
