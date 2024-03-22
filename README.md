@@ -37,7 +37,6 @@ In addition to writing code, I am interested in planning, designing, building, a
 
 ***
 
-### Stat
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goonerd17)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
