@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/MSA-232F3E?style=for-the-badge"/> <img src="https://img.shields.io/badge/Apache_Kafka-02303A?style=for-the-badge"> 
 
 ### Communication
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Goonerd)](https://github.com/loosie/github-readme-tistory-card)
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Goonerd)](https://goonerd.tistory.com/)
 
 
 ### Tools
