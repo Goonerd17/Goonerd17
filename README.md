@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=50&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=100&section=header" />
 
 반갑습니다.👋
 
