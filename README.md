@@ -1,5 +1,4 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=100&section=header" />
   
 반갑습니다.👋
 
@@ -48,5 +47,4 @@ In addition to writing code, I am interested in planning, designing, building, a
 
 [<img src="https://img.shields.io/badge/Tistory-FFA500?style=for-the-badge"/>](https://goonerd.tistory.com/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=100&section=footer" />
 </div>
