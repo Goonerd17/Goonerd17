@@ -8,6 +8,8 @@
 
 
 
+
+
 Welcome.
 
 In addition to writing code, I am interested in planning, designing, building, and operating a service to make it a reality.
