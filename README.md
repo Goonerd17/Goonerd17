@@ -6,14 +6,6 @@
 
 **실력있는 개발자가 되어 궁극적으로는 많은 사람들이 다양한 예술에 대해 미학적으로 접근할 수 있는 플랫폼 구축이 목표입니다.**
 
-<br/> </br>
-
-Welcome.👋
-
-In addition to writing code, I am interested in planning, designing, building, and operating a service to make it a reality.
-
-**My goal is to become a skilled developer and ultimately build a platform where many people can aesthetically approach various arts.**
-
 ***
 
 <br/> </br>
