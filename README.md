@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=150&section=header" />
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Goonerd17)](https://goonerd.tistory.com/)
+
+[![Tistory's Badge]<img src="https://img.shields.io/badge/Tistory-4479A1?style=for-the-badge"/>](https://goonerd.tistory.com/)
 
 ***
 
