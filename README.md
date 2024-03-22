@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=100&section=header" />
+
 반갑습니다.👋
 
 코드작성 뿐만 아니라, 서비스를 기획,설계,구축 운영하여 실제화하는 것에 관심을 가지고 있습니다.
@@ -14,6 +15,7 @@ In addition to writing code, I am interested in planning, designing, building, a
 My goal is to become a skilled developer and ultimately create opportunities for many people to have aesthetic access to various arts.
 
 ***
+
 ### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goonerd17)](https://github.com/anuraghazra/github-readme-stats)
 
