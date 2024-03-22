@@ -4,7 +4,7 @@
 
 코드작성 뿐만 아니라, 서비스를 기획,설계,구축 운영하여 실제화하는 것에 관심을 가지고 있습니다.
 
-실력있는 개발자가 되어 궁극적으로는 많은 사람들이 다양한 예술에 대해 미학적 접근을 할 수 있는 기회를 만드는 것이 목표입니다.
+**실력있는 개발자가 되어 궁극적으로는 많은 사람들이 다양한 예술에 대해 미학적 접근을 할 수 있는 기회를 만드는 것이 목표입니다.**
 
 <br/> </br>
 
@@ -12,7 +12,7 @@ Welcome.👋
 
 In addition to writing code, I am interested in planning, designing, building, and operating a service to make it a reality.
 
-My goal is to become a skilled developer and ultimately create opportunities for many people to have aesthetic access to various arts.
+**My goal is to become a skilled developer and ultimately create opportunities for many people to have aesthetic access to various arts.**
 
 ***
 
