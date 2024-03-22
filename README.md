@@ -16,7 +16,7 @@ My goal is to become a skilled developer and ultimately create opportunities for
 
 ***
 
-### Stats
+### Stat
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goonerd17)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
