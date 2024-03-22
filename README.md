@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=100&section=header" />
 
-반갑습니다.👋
+<center> 반갑습니다.👋
 
 코드작성 뿐만 아니라, 서비스를 기획,설계,구축 운영하여 실제화하는 것에 관심을 가지고 있습니다.
 
@@ -38,6 +38,6 @@ In addition to writing code, I am interested in planning, designing, building, a
 <br/> </br>
 **&downarrow; If u want to know more about me, click the badge** 
 
-[<img src="https://img.shields.io/badge/Tistory-FFA500?style=for-the-badge"/>](https://goonerd.tistory.com/)
+[<img src="https://img.shields.io/badge/Tistory-FFA500?style=for-the-badge"/>](https://goonerd.tistory.com/)</center>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=100&section=footer" />
