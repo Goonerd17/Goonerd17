@@ -37,7 +37,9 @@ In addition to writing code, I am interested in planning, designing, building, a
 ***
 
 <br/> </br>
-**&downarrow; If u want to know more about me, click the badge** 
+**If u want to know more about me, click the badge** 
+
+&downarrow; 
 
 [<img src="https://img.shields.io/badge/Tistory-FFA500?style=for-the-badge"/>](https://goonerd.tistory.com/)
 
