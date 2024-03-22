@@ -13,7 +13,7 @@ Welcome.👋
 
 In addition to writing code, I am interested in planning, designing, building, and operating a service to make it a reality.
 
-**My goal is to become a skilled developer and ultimately create opportunities for many people to have aesthetic access to various arts.**
+**My goal is to become a skilled developer and ultimately create opportunities for many people to have aesthetic access to arts.**
 
 ***
 
