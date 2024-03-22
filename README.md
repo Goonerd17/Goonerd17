@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=150&section=header" />
 
 ##Communicate with
-https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
+![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goonerd17)](https://github.com/anuraghazra/github-readme-stats)
 
