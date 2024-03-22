@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=100&section=header" />
 
-반갑습니다.
+반갑습니다.👋
 
 코드작성 뿐만 아니라, 서비스를 기획,설계,구축 운영하여 실제화하는 것에 관심을 가지고 있습니다.
 
@@ -10,7 +10,7 @@
 
 
 
-Welcome.
+Welcome.👋
 
 In addition to writing code, I am interested in planning, designing, building, and operating a service to make it a reality.
 
