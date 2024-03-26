@@ -2,8 +2,6 @@
   
 반갑습니다.👋
 
-현재 서울에서 거주하고 있습니다.
-
 코드작성뿐만 아니라, 서비스를 기획,설계,구축,운영하여 실제화하는 것에 관심을 가지고 있어요.
 
 **실력있는 개발자가 되어 언젠가 많은 사람들이 다양한 예술에 대해 미학적으로 접근할 수 있는 플랫폼을 구축해보고 싶습니다.**
@@ -11,8 +9,6 @@
 <br/> </br>
 
 Welcome.👋
-
-I currently live in Seoul.
 
 Not only Wirting code, but also I'm interested in planning, designing, building, and operating services to make them real.
 
