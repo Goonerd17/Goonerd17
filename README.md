@@ -28,7 +28,7 @@ Not only Wirting code, but also I'm interested in planning, designing, building,
 
 ***
 
-**If u want to know more about me, click the badge** 
+**If you want to know more about me, click the badge** 
 
 &downarrow; 
 
