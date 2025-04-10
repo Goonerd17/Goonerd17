@@ -1,8 +1,3 @@
-<div align="center">
-  
-반갑습니다.
-
-<br/> </br>
 
 ***
 
