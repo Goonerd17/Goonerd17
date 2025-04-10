@@ -2,15 +2,7 @@
   
 반갑습니다.
 
-코드작성뿐만 아니라, 서비스를 기획,설계,구축,운영하여 실제화하는 것에 관심을 가지고 있어요.
-
-
 <br/> </br>
-
-Welcome.
-
-Not only Wirting code, but also I'm interested in planning, designing, building, and operating services to make them real.
-
 
 ***
 
